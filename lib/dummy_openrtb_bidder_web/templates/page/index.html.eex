@@ -1,0 +1,21 @@
+<section class="phx-hero">
+  <h1>Dummy OpenRTB </h1>
+  <p>This is a  dummy bidder.</p>
+</section>
+
+<section class="row">
+  <article class="column">
+    <h2>Resources</h2>
+    <ul>
+      <li>
+        <a href="https://www.iab.com/guidelines/real-time-bidding-rtb-project/">OpenRTB (Real-Time Bidding)
+</a>
+      </li>
+      <li>
+        <a href="https://prebid.org/">Prebid</a>
+      </li>
+
+
+    </ul>
+  </article>
+</section>
