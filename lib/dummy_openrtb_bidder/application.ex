@@ -9,7 +9,7 @@ defmodule DummyOpenrtbBidder.Application do
     # List all child processes to be supervised
     children = [
       # Start the Ecto repository
-      DummyOpenrtbBidder.Repo,
+      # DummyOpenrtbBidder.Repo,
       # Start the endpoint when the application starts
       DummyOpenrtbBidderWeb.Endpoint
       # Starts a worker by calling: DummyOpenrtbBidder.Worker.start_link(arg)
